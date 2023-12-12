@@ -28,4 +28,6 @@ The Roblox Music Downloader is a Python script and GUI application that allows u
 
    # Run the script
    python your_script_name.py
+   
+- Alternatively, you can execute the .exe file, which is a precompiled and converted version of the Python script.
 
