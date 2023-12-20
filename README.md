@@ -18,7 +18,7 @@ The Roblox Music Downloader is a Python script and GUI application that allows u
 2. **Installation:**
    ```bash
    # Clone the repository
-   git clone https://github.com/your-username/RobloxMusicDownloader.git
+   git clone https://github.com/ftnick/RobloxMusicDownloader.git
 
    # Navigate to the project folder
    cd RobloxMusicDownloader
